@@ -15,4 +15,13 @@ This project analyzes data related to recent US police killings, focusing on the
 This project aims to extract insights and analyze patterns surrounding racism and police violence in the US.
 ## Shootings Dashboard
 ![Dashboard](https://github.com/ebolde-25/Power-BI-Projects/blob/069bb30fa389c4e76bee5eda9c0bd103640580a0/Image(s)/Dashboard_Image.PNG)
-
+**KPIs**
+- Total Victim Count- 4,897
+- Male Victim Count- 4,673
+- Female Victim Count- 222
+- Total White Victims- 2,476
+- Total Black Victims- 1,298
+## Victims Demographics
+![Victim's Demographics and Behaviour](
+**Insights**
+- Victim Demographics: Right off the bat, we see a heartbreaking total of 4,895 victims. What's immediately noticeable is the huge difference between genders, with 4,673 male victims compared to just 222 female victims. That's a really stark contrast.
