@@ -22,6 +22,11 @@ This project aims to extract insights and analyze patterns surrounding racism an
 - Total White Victims- 2,476
 - Total Black Victims- 1,298
 ## Victims Demographics
-![Victim's Demographics and Behaviour](
+![Victim's Demographics and Behaviour](https://github.com/ebolde-25/Power-BI-Projects/blob/8be035adc934f457019bb3f0cd9b0fc8bd9f4e20/Image(s)/Victims_Demographics.PNG)
+**KPIs**
+- Unarmed victims- 348
+- Percentage of victims who tried fleeing- 37%
+-  Percentage of unarmed victims- 7%
+
 **Insights**
 - Victim Demographics: Right off the bat, we see a heartbreaking total of 4,895 victims. What's immediately noticeable is the huge difference between genders, with 4,673 male victims compared to just 222 female victims. That's a really stark contrast.
