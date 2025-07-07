@@ -26,7 +26,7 @@ This project aims to extract insights and analyze patterns surrounding racism an
 **Insights**
 - We see a total of 4,895 victims. What's immediately noticeable is the huge difference between genders, with 4,673 male victims compared to just 222 female victims.
 - When it comes to the weapons involved, guns. Knives are next, but a good distance behind at 708, and then there are quite a few cases where the weapon isn't known.
-- It's tough to see, but for both White and Black victims, young adult and middle-aged males are consistently the most impacted groups. The numbers for males are just overwhelmingly higher across all age categories.are by far the most common, linked to 2,755 incidents. 
+- For both White and Black victims, young adult and middle-aged males are consistently the most impacted groups. The numbers for males are just overwhelmingly higher across all age categories.   
 - The data shows that White individuals make up the largest group of victims at 2,476, with Black individuals being the second largest at 1,298.
 - And here's a really important piece of information: nearly a quarter of all victims (23%, or 1,103 individuals) were showing signs of mental illness. That's a significant percentage that stands out.
 ___
