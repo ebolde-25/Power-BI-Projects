@@ -1,4 +1,17 @@
 # Power-BI-Projects
 Here is where my Power BI projects lives. Inside, you'll find everything from the initial data preparation; that's the cleaning, transforming, and structuring of the dataset. Then right through to the visual report I developed in Power BI Desktop. And of course, it includes the groundwork for the interactive dashboard, ready for Power BI Service. It's a complete snapshot of the entire analysis workflow.
-## US Police Shooting
-This project analyzes data related to recent US police killings, focusing on the topic of racism in America. The dataset includes demographic details (name, age, gender, race) of individuals involved, as well as information about each shooting or killing event—such as the date, location, manner of shooting, whether the individual attacked or had a weapon, indications of mental illness, whether the incident was recorded (e.g., police body camera), and if the suspect attempted to flee. Additionally, there is a category column describing the type of weapon used by the suspect. The project aims to extract insights and analyze patterns surrounding racism and police violence in the US.
+___
+# US Police Shooting
+This project analyzes data related to recent US police killings, focusing on the topic of racism in America. The dataset includes; 
+- demographic details such as name, age, gender, race of individuals involved
+- information about each shooting or killing event (such as the date of the incident)
+- location the incident took place
+- manner of shooting
+- whether the individual attacked or had a weapon
+- indications of mental illness
+- whether the incident was recorded (e.g., police body camera)
+- if the suspect attempted to flee
+- there is a category column describing the type of weapon used by the suspect.
+This project aims to extract insights and analyze patterns surrounding racism and police violence in the US.
+## Shootings Dashboard
+![Dashboard](
