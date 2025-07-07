@@ -14,4 +14,5 @@ This project analyzes data related to recent US police killings, focusing on the
 - there is a category column describing the type of weapon used by the suspect.
 This project aims to extract insights and analyze patterns surrounding racism and police violence in the US.
 ## Shootings Dashboard
-![Dashboard](
+![Dashboard](https://github.com/ebolde-25/Power-BI-Projects/blob/069bb30fa389c4e76bee5eda9c0bd103640580a0/Image(s)/Dashboard_Image.PNG)
+
