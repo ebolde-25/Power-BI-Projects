@@ -11,7 +11,7 @@ This project analyzes data related to recent US police killings, focusing on the
 - there is a category column describing the type of weapon used by the suspect.
 This project aims to extract insights and analyze patterns surrounding racism and police violence in the US.
 
-##Source
+##Source  
 The data used in this project is synthetic, aimed to be a representation of real-life data from kaggle.
 
 ## Shootings Dashboard
